@@ -10,3 +10,6 @@ git練習用リポジトリ
 -git statusで確認
 -git commit -m "コミット時のコメント"
 -git commit
+
+
+hennkou
